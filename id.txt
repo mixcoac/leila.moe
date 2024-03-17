@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Hello, 
+
+This file serves the purpose to publicly state/expose my identity with the purpose of providing an extra mean to look up and verify my identity.
+
+This file was created on March 17th 2024. It expires on April 1st 2024; or if a more recent version is available.
+
+You may obtain a copy of this file at leila.moe/id.txt.
+
+Always verify the attached PGP signature before using this file, this can be done by searching my key fingerprint in other platforms and comparing it to the one presented here.
+
+Do NOT use this file as the sole mean to verify my identity.
+
+- ---
+
+My full legal name is Leila Antonieta Pineda Perez. I go under the Leila Sother name online.
+
+My email is leila@insurgent.es. This the only email I use, excluding ones provided by my employer and school.
+
+My website can be found at leila.moe.
+
+My GPG/PGP key fingerprint is 0x19386A70428AEAE1BE73E9CAFD2448EA6A5A1D47. It can be found on keys.openpgp.org.
+
+I use FUTO Harbor as my default identity manager (also refered to as an "online passport" or "claim verifier"). My fingerprint is e_87JkWJ4-w0csKRwr6DoP3zl34dzo6sjYPjQ2zbDrK=.
+
+I go under the following usernames online:
+- - lulico
+- - lagtrain
+- - prismarama
+- - caiflanes
+- - kamikodev
+- - kritterhouse
+- - kitsune
+
+To verify the authenticity of accounts using said usernames, please refer to my identity manager (FUTO Harbor) or to my website (leila.moe), where a list of verified accounts I own can be found.
+
+доверяй, но проверяй.
+
+- - leila
+-----BEGIN PGP SIGNATURE-----
+
+iIkEARYKADEWIQQZOGpwQorq4b5z6cr9JEjqalodRwUCZfa3MhMcbGVpbGFAaW5z
+dXJnZW50LmVzAAoJEP0kSOpqWh1H9zkA/jPisYnCuGRgvk6DRPL3O6z1jCFWfNPV
+zV6ylP5TpoH/AP4m/bPYG94JTvwZ0sxfqznU0VicCEHt7Ge10TvHFFV3Ag==
+=IQwA
+-----END PGP SIGNATURE-----
